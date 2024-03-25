@@ -1,0 +1,27 @@
+nav {
+    background-color: blue; /* Cor de fundo da NavBar */
+    height: 35px;
+  }
+  
+  ul {
+    list-style-type: none; /* Remover marcadores de lista */
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: inline; /* Exibir os itens da lista em linha */
+    margin-right: 20px; /* Margem à direita entre os itens da lista */
+  }
+  
+  li a {
+    color: white; /* Cor do texto dos links */
+    text-decoration: none; /* Remover sublinhado dos links */
+    padding: 10px; /* Espaçamento interno dos links */
+    font-size: 18px;
+  }
+  
+  li a:hover {
+    background-color: rgba(0, 0, 0, 0.244); /* Cor de fundo dos links quando hover */
+  }
+  

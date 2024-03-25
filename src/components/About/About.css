@@ -1,0 +1,27 @@
+.textoPrincipal, .Titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.Titulo h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 35px;
+    margin: 50px;
+}
+
+.principal{
+    margin: 25px;
+    align-items: center;    
+    border-radius: 50px;
+    background-color: #999999af;
+    width: 500px;
+    height: 550px;
+    margin-left: 500px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    box-shadow: 10px 10px 20px #333333;
+    -moz-box-shadow: 10px 10px 50px #333333;
+    -webkit-box-shadow: 10px 10px 20px #333333;
+}

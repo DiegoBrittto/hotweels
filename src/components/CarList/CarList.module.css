@@ -1,0 +1,16 @@
+h2{
+    display: flex; /* Usando flexbox */
+    justify-content: center; /* Centralizando horizontalmente */
+    align-items: center; /* Centralizando verticalmente */
+    border-radius: 50px;  }
+    
+.listcar{
+    background-color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.principal .listcar{
+    background-color: blueviolet;
+}
